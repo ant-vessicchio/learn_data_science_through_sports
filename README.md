@@ -9,3 +9,8 @@ Love sports? Want to get into the world of data science? You've come to the righ
 Please connect with me on LinkedIn: https://www.linkedin.com/in/anthony-vessicchio/
 
 And check out my personal website: https://ant-vessicchio.github.io/
+
+
+# The Curriculum
+
+
