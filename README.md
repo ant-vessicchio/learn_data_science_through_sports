@@ -13,4 +13,6 @@ And check out my personal website: https://ant-vessicchio.github.io/
 
 # The Curriculum
 
+1.Introduction to Python
+https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Introduction_To_Python.ipynb
 
