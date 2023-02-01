@@ -22,4 +22,7 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/In
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Variables%20and%20Naming.ipynb
 
+3.Data Types
+
+https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Data_Types.ipynb
 
