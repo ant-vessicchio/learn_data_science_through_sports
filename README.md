@@ -14,7 +14,7 @@ And check out my personal website: https://ant-vessicchio.github.io/
 # The Curriculum 
 (Read through each of my descriptions and run each cell yourself. Try to make some modifications to each cell and enter some of your own content ideas!)
 
-## Beginner (Get used to Python here)
+## Beginner 1.0 (Your first steps in Python)
 
 
 1.Introduction to Python
