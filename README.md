@@ -18,7 +18,7 @@ And check out my personal website: https://ant-vessicchio.github.io/
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Introduction_To_Python.ipynb
 
-2. Variables and Naming
+2.Variables and Naming
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Variables%20and%20Naming.ipynb
 
