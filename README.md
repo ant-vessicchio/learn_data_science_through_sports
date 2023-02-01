@@ -26,3 +26,6 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Va
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Data_Types.ipynb
 
+4.Data Types Advanced
+
+https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Data_Types_Advanced.ipynb
