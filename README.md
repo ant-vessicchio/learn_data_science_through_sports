@@ -20,4 +20,6 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/In
 
 2. Variables and Naming
 
+https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Variables%20and%20Naming.ipynb
+
 
