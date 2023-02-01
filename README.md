@@ -14,6 +14,9 @@ And check out my personal website: https://ant-vessicchio.github.io/
 # The Curriculum 
 (Read through each of my descriptions and run each cell yourself. Try to make some modifications to each cell and enter some of your own content ideas!)
 
+## Beginner 
+
+
 1.Introduction to Python
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Introduction_To_Python.ipynb
