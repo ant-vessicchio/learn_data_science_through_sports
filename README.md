@@ -17,19 +17,19 @@ And check out my personal website: https://ant-vessicchio.github.io/
 ## Beginner 1.0 (Your first steps in Python)
 
 
-1.Introduction to Python
+1. Introduction to Python
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Introduction_To_Python.ipynb
 
-2.Variables and Naming
+2. Variables and Naming
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Variables%20and%20Naming.ipynb
 
-3.Data Types
+3. Data Types
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Data_Types.ipynb
 
-4.Data Types Advanced
+4. Data Types Advanced
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Data_Types_Advanced.ipynb
 
@@ -40,6 +40,6 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Da
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/If_Else.ipynb
 
-2.While Loops
+2. While Loops
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/While_Loops.ipynb
