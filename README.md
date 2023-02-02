@@ -43,3 +43,7 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/If
 2. While Loops
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/While_Loops.ipynb
+
+3. For Loops
+
+https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/For_Loops.ipynb
