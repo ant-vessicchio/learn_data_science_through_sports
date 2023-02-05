@@ -47,3 +47,7 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Wh
 3. For Loops
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/For_Loops.ipynb
+
+4. Python Functions
+
+https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Python_Functions.ipynb
