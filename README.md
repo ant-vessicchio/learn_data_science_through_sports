@@ -60,7 +60,7 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/St
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Beginner_Challenge.ipynb
 
-### Congrats on completing the Rookie Section! Continue climbing the ranks!
+
 
 ## Rookie 3.0 (Let's "Look" at Some Data using Matplotlib)
 
@@ -74,4 +74,11 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Sc
 
 3. Histograms and Pie Charts
 
+https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Histograms_and_Pie_Charts.ipynb
+
+4. Rookie Final Challenge (Telling a story about a baseball roster)
+
+
+
+### Congrats on completing the Rookie Section! Continue climbing the ranks!
 
