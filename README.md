@@ -68,4 +68,10 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Be
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Plotting_in_Matplotlib.ipynb
 
-2. Scatterplots
+2. Scatterplots and Bar Graphs
+
+https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Scatterplots_and_Bar_Graphs.ipynb
+
+3. Histograms and Pie Charts
+
+
