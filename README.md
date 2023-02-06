@@ -56,8 +56,12 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Py
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/String_Formatting.ipynb
 
-## Rookie Challenge (NFL Combine)
+## Rookie Challenge 1 (NFL Combine)
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Beginner_Challenge.ipynb
 
 ### Congrats on completing the Rookie Section! Continue climbing the ranks!
+
+## Rookie 3.0 (Let's "Look" at Some Data using Matplotlib)
+
+1. Plotting
