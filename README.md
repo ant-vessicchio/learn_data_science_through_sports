@@ -60,4 +60,4 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/St
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Beginner_Challenge.ipynb
 
-### Congrats on Completing the Beginner Section of my curriculum!
+### Congrats on completing the Rookie Section! Continue climbing the ranks!
