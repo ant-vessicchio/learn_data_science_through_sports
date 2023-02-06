@@ -51,3 +51,7 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Fo
 4. Python Functions
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Python_Functions.ipynb
+
+5. String Formatting
+
+https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/String_Formatting.ipynb
