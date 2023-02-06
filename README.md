@@ -85,9 +85,9 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Ro
 
 By now, you can tell how Python can be a great foundational tool in your Sports Data Science journey. The next portion of the curriculum is going to be very "learn by example" based. I feel that this is not only an engaging way to learn, but I feel like this is the best way to get the creative juices flowing! 
 
-I will be introducing new concepts, modules, and methodologies in the following examples without specifically dedicating a learning section to them. With repetition and "doing", these concepts will naturally stick!
+I will be introducing new concepts, modules, and methodologies in the following examples without specifically dedicating a learning section to them. With repetition and "doing", these concepts will naturally stick! You will also begin to develop an analytical mindset and become familiar with some very common data science processes and workflows.
 
-## Novice 1.0 (Your first "real" datasets)
+## Novice Project (MLB Databank from 1871-2015)
 
 1. 
 
