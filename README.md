@@ -34,7 +34,7 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Da
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Data_Types_Advanced.ipynb
 
 
-## Beginner 1.1 (Let's start with some logic!)
+## Beginner 2.0 (Let's start with some logic!)
 
 1. If/Else Statements
 
