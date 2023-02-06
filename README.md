@@ -65,3 +65,7 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Be
 ## Rookie 3.0 (Let's "Look" at Some Data using Matplotlib)
 
 1. Plotting
+
+https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Plotting_in_Matplotlib.ipynb
+
+2. Scatterplots
