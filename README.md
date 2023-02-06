@@ -78,7 +78,16 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Hi
 
 4. Rookie Final Challenge (Telling a story about a baseball roster)
 
+https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Rookie_Final_Challenge.ipynb
 
 
-### Congrats on completing the Rookie Section! Continue climbing the ranks!
+### Congrats on completing the Rookie Section! 
+
+By now, you can tell how Python can be a great foundational tool in your Sports Data Science journey. The next portion of the curriculum is going to be very "learn by example" based. I feel that this is not only an engaging way to learn, but I feel like this is the best way to get the creative juices flowing! 
+
+I will be introducing new concepts, modules, and methodologies in the following examples without specifically dedicating a learning section to them. With repetition and "doing", these concepts will naturally stick!
+
+## Novice 1.0 (Your first "real" datasets)
+
+1. 
 
