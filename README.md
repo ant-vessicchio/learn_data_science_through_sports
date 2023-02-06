@@ -14,7 +14,7 @@ And check out my personal website: https://ant-vessicchio.github.io/
 # The Curriculum 
 (Read through each of my descriptions and run each cell yourself. Try to make some modifications to each cell and enter some of your own content ideas!)
 
-## Beginner 1.0 (Your first steps in Python)
+## Rookie 1.0 (Your first steps in Python)
 
 
 1. Introduction to Python
@@ -34,7 +34,7 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Da
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Data_Types_Advanced.ipynb
 
 
-## Beginner 2.0 (Let's start with some logic!)
+## Rookie 2.0 (Let's start with some logic!)
 
 1. If/Else Statements
 
@@ -55,3 +55,9 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Py
 5. String Formatting
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/String_Formatting.ipynb
+
+## Rookie Challenge (NFL Combine)
+
+https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Beginner_Challenge.ipynb
+
+### Congrats on Completing the Beginner Section of my curriculum!
