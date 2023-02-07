@@ -89,5 +89,5 @@ I will be introducing new concepts, modules, and methodologies in the following 
 
 ## Novice Project 1 (MLB Databank from 1871-2015)
 
-Skills Used: Ingesting Datasets from Kaggle, Reading csv files into Dataframes, Exploring Dataframes, .loc and .iloc (accessing Dataframe elements), 
+Skills Used: Ingesting Datasets from Kaggle, Reading csv files into Dataframes, Exploring Dataframes, .loc and .iloc (accessing Dataframe elements), extracting data from specific columns, merging tables, and creating visuals to show key insights!
 
