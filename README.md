@@ -97,9 +97,9 @@ I will be introducing new concepts, modules, and methodologies in the following 
 # Novice Section (Let's begin on some real life projects)
 
 ## (MLB Databank from 1871-2015)
-The following Novice Project will be centered around a databank composed of several dataset files containing various information on baseball players, teams and games from 1871 to 2015. As you can imagine, this is quite a bit of information and we are going to break down this "Project" into parts to help you understand the overall flow of dealing with a large databank with multiple files.
+The following Novice Projects will be centered around a databank composed of several dataset files containing various information on baseball players, teams and games from 1871 to 2015. The first part will serve as an "exploratory" look into the data and teach you some valuable workflow skills when dealing with a dataset you've never seen before. As we move further into this section, the Parts will become more difficult (but also more useful, applicable, and creative!)
 
-## Novice Project Part 1 
+## Novice Project Part 1 (Exploration)
 
 Skills Used: Ingesting Datasets from Kaggle, Reading csv files into Dataframes, Exploring Dataframes, .loc and .iloc (accessing Dataframe elements), extracting data from specific columns, merging tables, intro to cleaning data, simple visualizations from a cleaned dataset.
 
