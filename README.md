@@ -10,6 +10,13 @@ Please connect with me on LinkedIn: https://www.linkedin.com/in/anthony-vessicch
 
 And check out my personal website: https://ant-vessicchio.github.io/
 
+# Before we Begin 
+
+The following curriculum is hosted in a Jupyter notebook environment. If you are not familiar with this platform/do not have it installed, follow this link:
+https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+
+All of my notebooks in the curriculum are .ipynb files (Jupyter notebook files). Once you have this environment set up, you can easily follow along with the entire curriculum!
+
 
 # The Curriculum 
 (Read through each of my descriptions and run each cell yourself. Try to make some modifications to each cell and enter some of your own content ideas!)
