@@ -101,5 +101,7 @@ The following Novice Projects will be centered around a databank composed of sev
 
 ## Novice Project 1.0 (Exploration)
 
+https://github.com/ant-vessicchio/learn_data_science_through_sports/tree/main/Baseball_Databank_Exploration
+
 Skills Used: Ingesting Datasets from Kaggle, Reading csv files into Dataframes, Exploring Dataframes, .loc and .iloc (accessing Dataframe elements), extracting data from specific columns, merging tables, intro to cleaning data, simple visualizations from a cleaned dataset.
 
