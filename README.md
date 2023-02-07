@@ -101,5 +101,5 @@ The following Novice Project will be centered around a databank composed of seve
 
 ## Novice Project Part 1 
 
-Skills Used: Ingesting Datasets from Kaggle, Reading csv files into Dataframes, Exploring Dataframes, .loc and .iloc (accessing Dataframe elements), extracting data from specific columns, merging tables, intro to cleaning data.
+Skills Used: Ingesting Datasets from Kaggle, Reading csv files into Dataframes, Exploring Dataframes, .loc and .iloc (accessing Dataframe elements), extracting data from specific columns, merging tables, intro to cleaning data, simple visualizations from a cleaned dataset.
 
