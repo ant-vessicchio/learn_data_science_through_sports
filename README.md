@@ -94,6 +94,8 @@ By now, you can tell how Python can be a great foundational tool in your Sports 
 
 I will be introducing new concepts, modules, and methodologies in the following examples without specifically dedicating a learning section to them. With repetition and "doing", these concepts will naturally stick! You will also begin to develop an analytical mindset and become familiar with some very common data science processes and workflows. I will also include a list of skills you will learn under each project name!
 
+# Novice Section (Let's begin on some real life projects)
+
 ## Novice Project 1 (MLB Databank from 1871-2015)
 
 Skills Used: Ingesting Datasets from Kaggle, Reading csv files into Dataframes, Exploring Dataframes, .loc and .iloc (accessing Dataframe elements), extracting data from specific columns, merging tables, intro to cleaning data, and creating visuals to show key insights!
