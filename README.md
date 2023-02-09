@@ -106,3 +106,5 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/tree/main/Ba
 Skills Used: Ingesting Datasets from Kaggle, Reading csv files into Dataframes, Exploring Dataframes, .loc and .iloc (accessing Dataframe elements), extracting data from specific columns, merging tables, intro to cleaning data, simple visualizations from a cleaned dataset.
 
 ## Novice Project 2.0 (Was Babe Ruth Really That Good?)
+
+https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Baseball_Databank_Exploration/Babe_Ruth_Evaluation.ipynb (Unfinished but take a look!)
