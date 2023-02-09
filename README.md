@@ -108,5 +108,5 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/tree/main/Ba
 
 ## Novice Project 2.0 (Was Babe Ruth Really That Good?)
 
-https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Baseball_Databank_Exploration/Babe_Ruth_Evaluation.ipynb (Unfinished but take a look!)
+https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Baseball_Databank_Exploration/Babe_Ruth_Evaluation.ipynb 
 
