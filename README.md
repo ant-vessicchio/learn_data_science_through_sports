@@ -8,6 +8,8 @@ Love sports? Want to get into the world of data science? You've come to the righ
 
 Please connect with me on LinkedIn: https://www.linkedin.com/in/anthony-vessicchio/
 
+The official Subreddit of this course: https://www.reddit.com/r/sportsanddatascience/
+
 And check out my personal website: https://ant-vessicchio.github.io/
 
 # Before we Begin 
@@ -108,5 +110,11 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/tree/main/Ba
 
 ## Novice Project 2.0 (Was Babe Ruth Really That Good?)
 
-https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Baseball_Databank_Exploration/Babe_Ruth_Evaluation.ipynb (Unfinished but take a look!)
+https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Baseball_Databank_Exploration/Babe_Ruth_Evaluation.ipynb 
 
+
+# Pro Section (Your Intro to Machine Learning, Everyone's Favorite Buzz Word)
+
+In this section I will be doing various examples and exercises illustrating different machine learning techniques and methodologies. I believe it is imoortant to understand at least some of the math and fundamentals behind the models so I will try to balance the technical terminology with the sports application in each example. Although this is a BIG step up in your Data Science journey, I believe this is where it becomes the most fun as it opens your toolbox up to take on so many different challenges. So sit tight and let's get it!
+
+## Pro Project 1.0
