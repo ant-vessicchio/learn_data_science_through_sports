@@ -117,4 +117,6 @@ https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/Ba
 
 In this section I will be doing various examples and exercises illustrating different machine learning techniques and methodologies. I believe it is imoortant to understand at least some of the math and fundamentals behind the models so I will try to balance the technical terminology with the sports application in each example. Although this is a BIG step up in your Data Science journey, I believe this is where it becomes the most fun as it opens your toolbox up to take on so many different challenges. So sit tight and let's get it!
 
-## Pro Project 1.0
+## Pro Project 1.0 (Your First Decision Tree: Will a player get drafted or not based on their NFL Combine performance?)
+
+https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/NFL_Combine/NFL_Combine_1st_Decision_Tree.ipynb
