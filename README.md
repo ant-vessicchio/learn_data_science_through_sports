@@ -120,3 +120,6 @@ In this section I will be doing various examples and exercises illustrating diff
 ## Pro Project 1.0 (Your First Decision Tree: Will a player get drafted or not based on their NFL Combine performance?)
 
 https://github.com/ant-vessicchio/learn_data_science_through_sports/blob/main/NFL_Combine/NFL_Combine_1st_Decision_Tree.ipynb
+
+
+# All Star Section (Putting it all together, advanced machine learning, visualizations, and more!)
